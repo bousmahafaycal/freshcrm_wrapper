@@ -3,3 +3,5 @@ venv/
 
 # Pycharm settings
 .idea/
+
+freshsales/__pycache__/
