@@ -6,7 +6,7 @@ setup(
     author='Bhagirath Goud',
     author_email='bhagirath@freshdesk.com',
     # Needed to actually package something
-    packages=['measure'],
+    packages=['freshsales'],
     # Needed for dependencies
     install_requires=['numpy'],
     # *strongly* suggested for sharing
